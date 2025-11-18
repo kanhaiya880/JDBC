@@ -1,3 +1,5 @@
+package com.kanhaiya.jdbc.basic;
+
 import java.sql.SQLException;
 import java.sql.Statement;
 

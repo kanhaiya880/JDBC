@@ -1,3 +1,5 @@
+package com.kanhaiya.jdbc.basic;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -13,10 +15,10 @@ public class Main {
         Connection con = DriverManager.getConnection(url,uname,upass);
         Statement stmt = con.createStatement();
 
-        // BookInsert.insertBook(stmt);
-        //BookRetrieve.retrieveBook(stmt);
-        // BookUpdate.updateBook(1,350,stmt);
-        //BookDelete.deleteBook(1,stmt);
+        // com.kanhaiya.jdbc.basic.BookInsert.insertBook(stmt);
+        //com.kanhaiya.jdbc.basic.BookRetrieve.retrieveBook(stmt);
+        // com.kanhaiya.jdbc.basic.BookUpdate.updateBook(1,350,stmt);
+        //com.kanhaiya.jdbc.basic.BookDelete.deleteBook(1,stmt);
 
 
     }

@@ -1,3 +1,5 @@
+package com.kanhaiya.jdbc.basic;
+
 public class Book {
 
     private Integer id;

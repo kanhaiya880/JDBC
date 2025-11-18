@@ -1,0 +1,2 @@
+## Transaction Management
+- Transaction management is crucial aspect of database management , specially when dealing with multiple object or queries that need to be traited as singe unit. if one operation fails the entire transaction can be roll back , insuring data integrity.

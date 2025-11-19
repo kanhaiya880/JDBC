@@ -1,4 +1,4 @@
-package com.kanhaiya.jdbc.basic;
+package com.kanhaiya.jdbc.no1_basic;
 
 public class Book {
 

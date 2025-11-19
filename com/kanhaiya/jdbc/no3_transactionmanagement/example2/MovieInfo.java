@@ -1,4 +1,4 @@
-package com.kanhaiya.jdbc.transactionmanagement.example2;
+package com.kanhaiya.jdbc.no3_transactionmanagement.example2;
 
 
 public class MovieInfo {

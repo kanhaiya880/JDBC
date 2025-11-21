@@ -1,4 +1,4 @@
-package com.kanhaiya.jdbc.no2_advanced;
+package kanhaiya.jdbc.no2_advanced;
 
 import java.sql.*;
 import java.util.Scanner;

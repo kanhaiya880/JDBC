@@ -1,4 +1,4 @@
-package com.kanhaiya.jdbc.no3_transactionmanagement.example2;
+package kanhaiya.jdbc.no3_transactionmanagement.example2;
 /*
 This is the program related to transaction management
  */
